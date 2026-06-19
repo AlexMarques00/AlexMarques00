@@ -7,7 +7,6 @@ I’m a software developer and student focused on backend development, automatio
 - 🧠 Interests: algorithms, developer tooling, clean architecture
 
 ## Featured Projects
-- 🎲 Graph implementations — Java-based data structures and graph algorithm projects. — [Graph-Implementations](https://github.com/AlexMarques00/Graph-Implementations)
 - 🛠️ Game scripting tools — Python scripts created for The Farmer Was Replaced game. — [farmer-was-replaced-scripts](https://github.com/AlexMarques00/farmer-was-replaced-scripts)
 - 📄 ToDo List app — A Python-based terminal app for managing tasks and notes. — [ToDo-List](https://github.com/AlexMarques00/ToDo-List)
 
